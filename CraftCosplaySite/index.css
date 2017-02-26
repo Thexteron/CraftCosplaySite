@@ -1,0 +1,162 @@
+	body{
+	width:100%
+}
+
+
+	html {
+background:url(images/site-background.jpg) no-repeat center top;
+-webkit-background-size: cover; 
+-moz-background-size: cover; 
+-ms-background-size: cover; 
+-o-background-size: cover; 
+background-size: cover;
+}
+
+
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+
+
+	li {
+    float: left;
+}
+
+
+	li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+ /*Changement de couleur au passage de la souris*/
+	li a:hover {
+    background-color: #111;
+}
+
+
+	h1{
+	text-align:center;
+}
+
+
+#container {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+	p.mainlogo{
+	margin-top:5%;
+	width:25%;
+}
+
+
+	span.middle{
+  text-align: center;
+  margin-left: 25%;
+  
+  
+}
+ 
+ 
+	span.left {
+  margin-left: 10%;
+  float: left;
+}
+
+
+	span.right {
+  float: right;
+  margin-right: 15%;
+  
+}
+
+
+	p.left{
+    width: 30%;
+    border: 1px solid black;
+    text-align: justify;
+    padding: 1%; 
+	
+}
+
+
+	p.middle{
+	 width: 30%;
+    border: 1px solid black;
+    text-align: justify;
+    padding: 1%; 
+}
+
+
+	p.right{
+	width: 15%;
+    border: 1px solid black;
+    text-align: justify;
+    padding: 1%; 
+}
+
+
+
+	p.leftImage{
+	margin-left : 5%;	
+}
+
+
+
+	p.middleImage{
+	margin-left: 5%;
+}
+
+
+
+	p.rightImage{
+	margin-left: 5%;
+	
+	
+}
+
+
+
+
+	hr{
+	border: 1px solid black;
+}
+
+
+	span.rapideNavigation{
+	margin-left: 10%;
+}
+
+
+	span.lastProjects{
+	margin-left: 10%;
+}
+
+
+	span.contacts{
+	float: right;
+	margin-right: 10%
+}
+
+
+	span.socialNetworks{
+	float: right;
+	margin-right: 15%;
+}
+
+
+	p.copyright{
+	text-align: center;
+}
+
+

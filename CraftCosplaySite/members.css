@@ -1,0 +1,106 @@
+	body{
+	width:100%
+}
+
+
+	html {
+background:url(images/site-background.jpg) no-repeat center top;
+-webkit-background-size: cover; 
+-moz-background-size: cover; 
+-ms-background-size: cover; 
+-o-background-size: cover; 
+background-size: cover;
+}
+
+
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+
+
+	li {
+    float: left;
+}
+
+
+	li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+ /*Changement de couleur au passage de la souris*/
+	li a:hover {
+    background-color: #111;
+}
+
+	h1{
+	text-align:center;
+}
+
+
+	h2{
+	text-align:center;
+}
+
+#conteneur
+{
+
+    display: flex;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	hr{
+	border: 1px solid black;
+}
+
+
+	span.rapideNavigation{
+	margin-left: 10%;
+}
+
+
+	span.lastProjects{
+	margin-left: 10%;
+}
+
+
+	span.contacts{
+	float: right;
+	margin-right: 10%
+}
+
+
+	span.socialNetworks{
+	float: right;
+	margin-right: 15%;
+}
+
+
+	p.copyright{
+	text-align: center;
+}
